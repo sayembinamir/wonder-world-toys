@@ -9,7 +9,7 @@ import Marquee from "react-fast-marquee";
 
 const Banner = () => {
     return (
-        <div className="carousel  h-[700px]">
+        <div className="carousel w-full h-[700px]">
 
              
   <div id="slide1" className="carousel-item relative w-full">
