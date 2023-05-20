@@ -1,7 +1,6 @@
 [
     {
       "id": 1,
-      "_id": "toy001",
       "name": "Plush Elephant",
       "type": "Stuffed Animal",
       "img": "https://example.com/toys/elephant.jpg",
@@ -22,7 +21,6 @@
     },
     {
       "id": 2,
-      "_id": "toy002",
       "name": "Wooden Giraffe Puzzle",
       "type": "Puzzle",
       "img": "https://example.com/toys/giraffe_puzzle.jpg",
@@ -43,7 +41,6 @@
     },
     {
       "id": 3,
-      "_id": "toy003",
       "name": "Plush Lion",
       "type": "Stuffed Animal",
       "img": "https://example.com/toys/lion.jpg",
@@ -64,7 +61,6 @@
     },
     {
       "id": 4,
-      "_id": "toy004",
       "name": "Animal Memory Game",
       "type": "Game",
       "img": "https://example.com/toys/memory_game.jpg",
@@ -86,7 +82,7 @@
     
         {
           "id": 21,
-          "_id": "toy021",
+  
           "name": "Turtle Bath Toy",
           "type": "Bath toy",
           "img": "https://example.com/toys/turtle_bath_toy.jpg",
@@ -107,7 +103,7 @@
         },
         {
           "id": 22,
-          "_id": "toy022",
+  
           "name": "Snake Finger Puppet",
           "type": "Puppet",
           "img": "https://example.com/toys/snake_puppet.jpg",
@@ -128,7 +124,7 @@
         },
         {
           "id": 23,
-          "_id": "toy023",
+  
           "name": "Plush Panda",
           "type": "Stuffed Animal",
           "img": "https://example.com/toys/panda.jpg",
@@ -149,7 +145,7 @@
         },
         {
           "id": 24,
-          "_id": "toy024",
+  
           "name": "Parrot Hand Puppet",
           "type": "Puppet",
           "img": "https://example.com/toys/parrot_puppet.jpg",

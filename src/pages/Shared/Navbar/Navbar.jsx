@@ -6,7 +6,9 @@ const Navbar = () =>
 {
     const navItems = <>
         <li><Link to='/'>Home</Link></li>
-        <li><Link to='/about'>About</Link></li>
+        <li><Link to='/blog'>Blog</Link></li>
+        <li><Link to='/blog'>Add a Toy</Link></li>
+
     </>
     return (
         <div className="navbar bg-base-100 h-28 mb-4">
@@ -21,7 +23,9 @@ const Navbar = () =>
                      </ul>
                      </div>
                 <img className="w-[100px] h-[100px]" src={logo} alt="" />
+                <h1 className="font-bold border-lime-500">Animal Toy</h1>
             </div>
+          
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
               {navItems}
@@ -29,7 +33,7 @@ const Navbar = () =>
             </div>
             <div className="navbar-end">
         <button className="btn btn-outline btn-warning
-        ">Appoinment</button>
+        "><Link to='/login '>LOG IN</Link></button>
             </div>
         </div>
     );
