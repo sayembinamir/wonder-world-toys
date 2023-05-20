@@ -49,7 +49,7 @@ const Banner = () => {
       <Marquee className=' text-error font-bold'>
       `Transform playtime into a safari adventure with our collection of animal-inspired toys.`
   </Marquee>
-        <a href="#slide5" className="btn btn-square btn-secondary mr-5">❮</a> 
+        <a href="#slide5" className="btn  btn-secondary mr-5">❮</a> 
         <a href="#slide4" className="btn btn-square btn-secondary">❯</a>
   
        
